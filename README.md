@@ -4,8 +4,8 @@
    A small company, Axon, is a retailer specializing in selling classic cars. However, they are facing challenges in managing and analyzing their sales data. The sales team is struggling to make sense of the data, and the lack of a centralized system hampers effective data management and analysis. The management is unable to access accurate and up-to-date sales reports, impacting their decision-making process.
    
   
-# Steps and Approaches for Retail Project:
-# 1#Analysis of Axon's Retail Sales Data Management
+# 1# Steps and Approaches for Retail Project:
+# Analysis of Axon's Retail Sales Data Management
 Axon, a retailer specializing in classic cars, is grappling with the challenge of effectively managing and 
 analyzing their sales data. The absence of a centralized system has hindered data comprehension, 
 leading to a notable impact on decision-making. To address this, the company is considering the 
@@ -40,9 +40,9 @@ the sales team and the management. To facilitate user navigation and system util
 comprehensive documentation that outlined the entire process in detail.
 This comprehensive approach not only addressed Axon's immediate needs but also ensured that the 
 implemented solution would serve as a valuable asset for the company's ongoing operations.
-# Report:
-Data Analysis Project for Retail: Sales Performance Report Using 
-Power Bi
+# 2# Report:
+### Data Analysis Project for Retail: Sales Performance Report Using Power bi
+
 The report provides a comprehensive overview of sales performance for the years 2003, 2004, and 
 2005. It encompasses key metrics including total order value, total revenue, total profit amount, 
 total customers, total products, average delivery days, top countries, most ordered product 
@@ -67,9 +67,12 @@ High-End Retailer:
 The total order value of 9.6 million suggests that Axon Retail Insights caters to a high-end market.
 With an average delivery time of 4 days, Axon Retail Insights demonstrates quick and efficient 
 shipping, even for international orders.
+
 Given that the top 3 product categories drive over 80% of revenue, the company should concentrate 
 its marketing efforts on these segments.
+
 With the highest revenue recorded in the fourth quarter, Axon Retail Insights should strategically 
 target sales initiatives towards the holiday season.
+
 In conclusion, the sales performance report for Axon Retail Insights showcases a positive trajectory. 
 The company's robust revenue and profit figures, along with the stellar performance of ke
