@@ -62,7 +62,7 @@ ordered products, accounting for over 10% of total revenue.
 # Revenue Trends:
 Total revenue peaks in the fourth quarter, indicating a strong performance during the holiday 
 season.
-# Additional Insights:
+# 3# Additional Insights:
 High-End Retailer:
 The total order value of 9.6 million suggests that Axon Retail Insights caters to a high-end market.
 With an average delivery time of 4 days, Axon Retail Insights demonstrates quick and efficient 
